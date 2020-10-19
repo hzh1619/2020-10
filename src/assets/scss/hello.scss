@@ -1,0 +1,11 @@
+$bgcolor: lightblue;
+$textcolor: darkblue;
+$fontsize: 18px;
+$border:1px solid #ccc;
+///* 使用变量 */
+body {
+  background-color: $bgcolor;
+  color: $textcolor;
+  font-size: $fontsize;
+  border:$border;
+}
