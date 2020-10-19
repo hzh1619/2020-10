@@ -51,6 +51,7 @@
       "parser": "babel-eslint"
     },
     "rules": {
+      "indent": [2, 4],
       "generator-star-spacing": "off",
       "no-tabs": "off",
       "no-unused-vars": "off",
